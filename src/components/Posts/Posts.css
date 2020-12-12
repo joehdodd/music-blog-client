@@ -1,0 +1,22 @@
+.posts-wrapper {
+    margin: 0 auto;
+    padding: 16px;
+    max-width: 50%;
+}
+
+.posts-container {
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.posts-container a {
+    text-decoration: none;
+    color: #5A6351;
+}
+
+.post-item-container {
+    padding: 8px;
+    border-bottom: 1px solid #5A6351;
+    border-radius: 2px;
+}
